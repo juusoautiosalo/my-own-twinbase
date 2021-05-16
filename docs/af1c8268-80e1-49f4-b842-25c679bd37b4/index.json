@@ -4,5 +4,11 @@
     "name": "Monstera Monkey Leaf",
     "description": "Monstera monkey leaf plant, real name probably Monstera adansonii. Finnish: Aarnipeikonlehti.",
     "baseurl": "https://juusoautiosalo.github.io/my-own-twinbase",
-    "edit": "https://github.com/juusoautiosalo/my-own-twinbase/edit/main/docs/af1c8268-80e1-49f4-b842-25c679bd37b4/index.yaml"
+    "edit": "https://github.com/juusoautiosalo/my-own-twinbase/edit/main/docs/af1c8268-80e1-49f4-b842-25c679bd37b4/index.yaml",
+    "feature": [
+        {
+            "name": "Diary",
+            "url": "https://docs.google.com/document/d/1GNF-Lnss4y7XVC4-O1AL_xf97WB_QJlIy6twOMJQgzA/edit?usp=sharing"
+        }
+    ]
 }
