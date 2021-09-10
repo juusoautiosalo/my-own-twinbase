@@ -1,0 +1,8 @@
+dt-id: autoassign|https://dtid.org
+hosting-iri: autoassign
+name: Monstera Monkey Leaf the 2nd
+description: Child of the Monstera monkey leaf.
+relations:
+- dt-id: https://dtid.org/af1c8268-80e1-49f4-b842-25c679bd37b4
+  name: Monstera Monkey Leaf
+  relationType: parent
