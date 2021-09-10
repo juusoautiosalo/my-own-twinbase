@@ -11,5 +11,11 @@
         }
     ],
     "baseurl": "https://juusoautiosalo.github.io/my-own-twinbase",
-    "edit": "https://github.com/juusoautiosalo/my-own-twinbase/edit/main/docs/49b7fc8d-7c2f-4e3b-9e02-8b77339c90b6/index.yaml"
+    "edit": "https://github.com/juusoautiosalo/my-own-twinbase/edit/main/docs/49b7fc8d-7c2f-4e3b-9e02-8b77339c90b6/index.yaml",
+    "feature": [
+        {
+            "name": "Diary",
+            "url": "https://docs.google.com/document/d/1sf6-o22kXDoqpblduVtZsQvLdDxC_Gmvggo5HQ1Sn5I/edit?usp=sharing"
+        }
+    ]
 }
