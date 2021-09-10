@@ -3,6 +3,10 @@ hosting-iri: https://juusoautiosalo.github.io/my-own-twinbase/af1c8268-80e1-49f4
 name: Monstera Monkey Leaf
 description: 'Monstera monkey leaf plant, real name probably Monstera adansonii. Finnish:
   Aarnipeikonlehti.'
+relations:
+- dt-id: https://dtid.org/49b7fc8d-7c2f-4e3b-9e02-8b77339c90b6
+  name: Monstera Monkey Leaf the 2nd
+  relationType: child
 baseurl: https://juusoautiosalo.github.io/my-own-twinbase
 edit: https://github.com/juusoautiosalo/my-own-twinbase/edit/main/docs/af1c8268-80e1-49f4-b842-25c679bd37b4/index.yaml
 feature:
