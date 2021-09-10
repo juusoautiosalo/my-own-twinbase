@@ -1,0 +1,15 @@
+{
+    "dt-id": "https://dtid.org/49b7fc8d-7c2f-4e3b-9e02-8b77339c90b6",
+    "hosting-iri": "https://juusoautiosalo.github.io/my-own-twinbase/49b7fc8d-7c2f-4e3b-9e02-8b77339c90b6",
+    "name": "Monstera Monkey Leaf the 2nd",
+    "description": "Child of the Monstera monkey leaf.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/af1c8268-80e1-49f4-b842-25c679bd37b4",
+            "name": "Monstera Monkey Leaf",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://juusoautiosalo.github.io/my-own-twinbase",
+    "edit": "https://github.com/juusoautiosalo/my-own-twinbase/edit/main/docs/49b7fc8d-7c2f-4e3b-9e02-8b77339c90b6/index.yaml"
+}
