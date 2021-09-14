@@ -4,6 +4,8 @@ owner:
 repo_url: https://github.com/juusoautiosalo/my-own-twinbase
 new_twin_url: https://github.com/juusoautiosalo/my-own-twinbase/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
+- url: https://juusoautiosalo.github.io/my-own-twinbase/f7013fb9-2d96-43d4-994f-1f3716b7c23d
+  name: Earth
 - url: https://juusoautiosalo.github.io/my-own-twinbase/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
 - url: https://juusoautiosalo.github.io/my-own-twinbase/49b7fc8d-7c2f-4e3b-9e02-8b77339c90b6
