@@ -1,4 +1,6 @@
 dt-id: https://dtid.org/earth
-hosting-iri: autoassign
+hosting-iri: https://juusoautiosalo.github.io/my-own-twinbase/f7013fb9-2d96-43d4-994f-1f3716b7c23d
 name: Earth
-description: "Digital twin for the Earth. For more info, see Wikipedia article: https://en.wikipedia.org/wiki/Earth"
+description: 'Digital twin for the Earth. For more info, see Wikipedia article: https://en.wikipedia.org/wiki/Earth'
+baseurl: https://juusoautiosalo.github.io/my-own-twinbase
+edit: https://github.com/juusoautiosalo/my-own-twinbase/edit/main/docs/f7013fb9-2d96-43d4-994f-1f3716b7c23d/index.yaml
