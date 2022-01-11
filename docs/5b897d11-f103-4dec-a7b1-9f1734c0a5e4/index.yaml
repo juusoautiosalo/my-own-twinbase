@@ -1,5 +1,5 @@
 dt-id: https://juu.so
-hosting-iri: https://juusoautiosalo.github.io/my-own-twinbase/5b897d11-f103-4dec-a7b1-9f1734c0a5e4
+hosting-iri: https://dtw.juu.so/5b897d11-f103-4dec-a7b1-9f1734c0a5e4
 name: Juuso Autiosalo
 description: Juuso is working as a postdoctoral researcher at Aalto University. He
   is also initiating some side businesses.
@@ -20,4 +20,4 @@ features:
   description: Juuso's GitHub profile
   address: https://github.com/juusoautiosalo
 edit: https://github.com/juusoautiosalo/my-own-twinbase/edit/main/docs/5b897d11-f103-4dec-a7b1-9f1734c0a5e4/index.yaml
-baseurl: https://juusoautiosalo.github.io/my-own-twinbase
+baseurl: https://dtw.juu.so
