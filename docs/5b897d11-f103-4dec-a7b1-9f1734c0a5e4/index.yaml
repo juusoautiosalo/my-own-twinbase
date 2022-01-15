@@ -9,7 +9,7 @@ location:
   streetAddress: Helsinki, Finland
 features:
 - name: Personal website
-  address: https://me.juu.so
+  address: https://juu.so
 - name: LinkedIn profile
   description: Juuso occasionally uses LinkedIn.
   address: https://www.linkedin.com/in/juuso-autiosalo
